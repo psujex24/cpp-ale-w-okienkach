@@ -1,0 +1,3 @@
+C:\Users\kubap\source\repos\test tutorialu od jakiegos hindusa\test tutorialu od jakiegos hindusa\x64\Debug\test tutorialu od jakiegos hindusa.vcxproj.AssemblyReference.cache
+C:\Users\kubap\source\repos\test tutorialu od jakiegos hindusa\test tutorialu od jakiegos hindusa\x64\Debug\testtutorialuodjakiegoshindusa.MyForm.resources
+C:\Users\kubap\source\repos\test tutorialu od jakiegos hindusa\test tutorialu od jakiegos hindusa\x64\Debug\test tutorialu od jakiegos hindusa.vcxproj.GenerateResource.cache
