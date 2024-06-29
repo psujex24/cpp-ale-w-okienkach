@@ -1,0 +1,3 @@
+C:\Users\kubap\source\repos\notatnik\notatnik\x64\Debug\notatnik.vcxproj.AssemblyReference.cache
+C:\Users\kubap\source\repos\notatnik\notatnik\x64\Debug\notatnik.MyForm.resources
+C:\Users\kubap\source\repos\notatnik\notatnik\x64\Debug\notatnik.vcxproj.GenerateResource.cache
