@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\kubap\\source\\repos\\notatnik\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|solutionrelative:notatnik\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|solutionrelative:notatnik\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|solutionrelative:notatnik\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|solutionrelative:notatnik\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|solutionrelative:notatnik\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+      "AbsoluteMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30B4BD49-7AE7-46BE-A643-88DB5995BF5D}|notatnik\\notatnik.vcxproj|solutionrelative:notatnik\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MyForm.h",
               "DocumentMoniker": "C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm.h",
               "RelativeDocumentMoniker": "notatnik\\MyForm.h",
               "ToolTip": "C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm.h",
               "RelativeToolTip": "notatnik\\MyForm.h",
-              "ViewState": "AQIAAPsAAAAAAAAAAADwvx8BAAAoAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowAMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-28T21:52:31.057Z",
               "IsPinned": true,
@@ -40,7 +48,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "MyForm1.h",
+              "DocumentMoniker": "C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm1.h",
+              "RelativeDocumentMoniker": "notatnik\\MyForm1.h",
+              "ToolTip": "C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm1.h",
+              "RelativeToolTip": "notatnik\\MyForm1.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowGIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T23:45:00.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm1.h [Projekt]",
+              "DocumentMoniker": "C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm1.h",
+              "RelativeDocumentMoniker": "notatnik\\MyForm1.h",
+              "ToolTip": "C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm1.h [Projekt]",
+              "RelativeToolTip": "notatnik\\MyForm1.h [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T23:41:20.5Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MyForm.h [Projekt]",
               "DocumentMoniker": "C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm.h",
               "RelativeDocumentMoniker": "notatnik\\MyForm.h",
@@ -52,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MyForm.cpp",
               "DocumentMoniker": "C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm.cpp",
               "RelativeDocumentMoniker": "notatnik\\MyForm.cpp",
               "ToolTip": "C:\\Users\\kubap\\source\\repos\\notatnik\\notatnik\\MyForm.cpp",
               "RelativeToolTip": "notatnik\\MyForm.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-28T22:49:14.026Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
   notatnik.MyForm.resources - Embedded, ContainedInManifestFile, 
+  notatnik.MyForm1.resources - Embedded, ContainedInManifestFile, 
 ImageRuntimeVersion: v4.0.30319
 Assembly notatnik, Version=0.0.*, Culture=Język niezmienny (kraj niezmienny): 
 	hash=SHA1, flags=PublicKey
@@ -14,9 +15,9 @@ Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=
 	hash=None, flags=None
 Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
 	hash=None, flags=None
-Class notatnik.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+Class notatnik.MyForm1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
-Class notatnik.MyForm1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+Class notatnik.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
